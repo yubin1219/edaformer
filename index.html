@@ -153,7 +153,7 @@
               </center>
           </div>
           <div class="content has-text-centered">
-            <p><strong>Figure 2. Comparison of the previous attention structure and our EFA structure</strong></p>
+            <p><strong>Figure 1. Comparison of the previous attention structure and our EFA structure</strong></p>
           </div>   
         <div class="content has-text-left">
           <p>
@@ -166,9 +166,20 @@
             </center>
           </div>
           <div class="content has-text-centered">
-            <p><strong>Figure 1. (a) Overall architeucture of EDAFormer (b) Details of Embedding-Free Transformer (EFT) block</strong></p>
+            <p><strong>Figure 2. (a) Overall architeucture of EDAFormer (b) Details of Embedding-Free Transformer block</strong></p>
           </div>
-            <strong>2. We present EDAFormer</strong>, a powerful semantic segmentation model with the proposed Embedding-Free Transformer encoder and all-attention decoder. The all-attention decoder exploits the more number of the proposed EFA module at the higher level to capture the global context more effectively. <br><br> <strong>3. We present Inference Spatial Reduction (ISR) method,</strong> which reduces the key-value spatial resolution more at the inference phase than the training phase. ISR enables the models to reduce the computational cost with less degradation in segmentation performance at the inference phase. Without additional training, ISR allows to selectively adjust computational costs of the trained model. <br><br> <strong>4. EDAFormer surpasses the previous transformer-based segmentation models in terms of both efficiency and accuracy</strong> on ADE20K, Cityscapes and COCO-Stuff benchmarks.
+            <strong>2. We present EDAFormer</strong>, a powerful semantic segmentation model with the proposed Embedding-Free Transformer encoder and all-attention decoder. The all-attention decoder exploits the more number of the proposed EFA module at the higher level to capture the global context more effectively. 
+          <br><br>
+          <div class="image">
+            <center>
+              <img src="static/images/eccv_isr.png" alt="ISR" />
+            </center>
+          </div>
+          <div class="content has-text-left">
+              <p><strong>Figure 3. Overview of ISR method at the 1st stage of the encoder</strong> Our ISR adjusts the reduction ratio at the inference, reducing the key and value tokens selectively. This framework can be performed at every stage that contains the self-attention structure. It leads to flexibly reduce the computational cost without disrupting the spatial structure. 
+              </p>
+          </div> 
+          <strong>3. We present Inference Spatial Reduction (ISR) method,</strong> which reduces the key-value spatial resolution more at the inference phase than the training phase. ISR enables the models to reduce the computational cost with less degradation in segmentation performance at the inference phase. Without additional training, ISR allows to selectively adjust computational costs of the trained model. <br><br> <strong>4. EDAFormer surpasses the previous transformer-based segmentation models in terms of both efficiency and accuracy</strong> on ADE20K, Cityscapes and COCO-Stuff benchmarks.
           </p>
         </div>
       </div>
