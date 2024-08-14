@@ -147,7 +147,10 @@
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <h2 class="title is-3">🔥 Highlights</h2>
-        <div class="image" >
+        <div class="content has-text-left">
+          <p>
+            <strong>1. We propose a novel Embedding-Free Attention (EFA) structure</strong>, which removes the embeddings of the query, key and value in the attention mechanism. EFA leads to the competitive performance on image classification and semantic segmentation tasks. We empirically find that EFA is effective for our ISR in terms of considering the trade-off between computation and performance degradation. 
+            <div class="image" >
               <center>
               <img src="static/images/efa.png" style="width:388px;height:246px;" />
               </center>
@@ -155,12 +158,9 @@
           <div class="content has-text-centered">
             <p><strong>Figure 1. Comparison of the previous attention structure and our EFA structure</strong></p>
           </div>   
-        <div class="content has-text-left">
-          <p>
-            <strong>1. We propose a novel Embedding-Free Attention (EFA) structure</strong>, which removes the embeddings of the query, key and value in the attention mechanism. EFA leads to the competitive performance on image classification and semantic segmentation tasks. We empirically find that EFA is effective for our ISR in terms of considering the trade-off between computation and performance degradation. 
-            
-            <br><br>
-            <div class="image">
+            <br><br><br><br>
+            <strong>2. We present EDAFormer</strong>, a powerful semantic segmentation model with the proposed Embedding-Free Transformer encoder and all-attention decoder. The all-attention decoder exploits the more number of the proposed EFA module at the higher level to capture the global context more effectively. 
+          <div class="image">
             <center>
             <img src="static/images/architecture2.png" alt="Overall architecture"/>
             </center>
@@ -168,8 +168,8 @@
           <div class="content has-text-centered">
             <p><strong>Figure 2. (a) Overall architeucture of EDAFormer (b) Details of Embedding-Free Transformer block</strong></p>
           </div>
-            <strong>2. We present EDAFormer</strong>, a powerful semantic segmentation model with the proposed Embedding-Free Transformer encoder and all-attention decoder. The all-attention decoder exploits the more number of the proposed EFA module at the higher level to capture the global context more effectively. 
-          <br><br>
+          <br><br><br><br>
+          <strong>3. We present Inference Spatial Reduction (ISR) method,</strong> which reduces the key-value spatial resolution more at the inference phase than the training phase. ISR enables the models to reduce the computational cost with less degradation in segmentation performance at the inference phase. Without additional training, ISR allows to selectively adjust computational costs of the trained model. 
           <div class="image">
             <center>
               <img src="static/images/eccv_isr.png" alt="ISR" />
@@ -179,7 +179,7 @@
               <p><strong>Figure 3. Overview of ISR method at the 1st stage of the encoder</strong> Our ISR adjusts the reduction ratio at the inference, reducing the key and value tokens selectively. This framework can be performed at every stage that contains the self-attention structure. It leads to flexibly reduce the computational cost without disrupting the spatial structure. 
               </p>
           </div> 
-          <strong>3. We present Inference Spatial Reduction (ISR) method,</strong> which reduces the key-value spatial resolution more at the inference phase than the training phase. ISR enables the models to reduce the computational cost with less degradation in segmentation performance at the inference phase. Without additional training, ISR allows to selectively adjust computational costs of the trained model. <br><br> <strong>4. EDAFormer surpasses the previous transformer-based segmentation models in terms of both efficiency and accuracy</strong> on ADE20K, Cityscapes and COCO-Stuff benchmarks.
+          <br><br><br><br> <strong>4. EDAFormer surpasses the previous transformer-based segmentation models in terms of both efficiency and accuracy</strong> on ADE20K, Cityscapes and COCO-Stuff benchmarks.
           </p>
         </div>
       </div>
