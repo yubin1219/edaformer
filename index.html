@@ -157,7 +157,18 @@
           </div>   
         <div class="content has-text-left">
           <p>
-            <strong>1. We propose a novel Embedding-Free Attention (EFA) structure</strong>, which removes the embeddings of the query, key and value in the attention mechanism. EFA leads to the competitive performance on image classification and semantic segmentation tasks. We empirically find that EFA is effective for our ISR in terms of considering the trade-off between computation and performance degradation. <br><br> <strong>2. We present EDAFormer</strong>, a powerful semantic segmentation model with the proposed Embedding-Free Transformer encoder and all-attention decoder. The all-attention decoder exploits the more number of the proposed EFA module at the higher level to capture the global context more effectively. <br><br> <strong>3. We present Inference Spatial Reduction (ISR) method,</strong> which reduces the key-value spatial resolution more at the inference phase than the training phase. ISR enables the models to reduce the computational cost with less degradation in segmentation performance at the inference phase. Without additional training, ISR allows to selectively adjust computational costs of the trained model. <br><br> <strong>4. EDAFormer surpasses the previous transformer-based segmentation models in terms of both efficiency and accuracy</strong> on ADE20K, Cityscapes and COCO-Stuff benchmarks.
+            <strong>1. We propose a novel Embedding-Free Attention (EFA) structure</strong>, which removes the embeddings of the query, key and value in the attention mechanism. EFA leads to the competitive performance on image classification and semantic segmentation tasks. We empirically find that EFA is effective for our ISR in terms of considering the trade-off between computation and performance degradation. 
+            
+            <br><br>
+            <div class="image">
+            <center>
+            <img src="static/images/architecture2.png" alt="Overall architecture"/>
+            </center>
+          </div>
+          <div class="content has-text-centered">
+            <p><strong>Figure 1. (a) Overall architeucture of EDAFormer (b) Details of Embedding-Free Transformer (EFT) block</strong></p>
+          </div>
+            <strong>2. We present EDAFormer</strong>, a powerful semantic segmentation model with the proposed Embedding-Free Transformer encoder and all-attention decoder. The all-attention decoder exploits the more number of the proposed EFA module at the higher level to capture the global context more effectively. <br><br> <strong>3. We present Inference Spatial Reduction (ISR) method,</strong> which reduces the key-value spatial resolution more at the inference phase than the training phase. ISR enables the models to reduce the computational cost with less degradation in segmentation performance at the inference phase. Without additional training, ISR allows to selectively adjust computational costs of the trained model. <br><br> <strong>4. EDAFormer surpasses the previous transformer-based segmentation models in terms of both efficiency and accuracy</strong> on ADE20K, Cityscapes and COCO-Stuff benchmarks.
           </p>
         </div>
       </div>
