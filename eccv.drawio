@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="페이지-1" id="t9a6NV_zygVOl85xZbFj">
-    <mxGraphModel dx="6887" dy="3520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="5120" pageHeight="2560" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5903" dy="3017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="5120" pageHeight="2560" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,13 +38,13 @@
           <mxGeometry x="2375" y="1860" width="1902.24" height="638" as="geometry" />
         </mxCell>
         <mxCell id="-TtysaUI52EJilZCeaw0-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://yubin1219.github.io/edaformer/static/images/efa.png;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
-          <mxGeometry x="12.24" y="1087" width="1056.16" height="671" as="geometry" />
+          <mxGeometry x="7.24" y="1080" width="1056.16" height="671" as="geometry" />
         </mxCell>
         <mxCell id="-TtysaUI52EJilZCeaw0-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://yubin1219.github.io/edaformer/static/images/eccv_isr.png;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="278" y="1806.4" width="1838.51" height="522.44" as="geometry" />
         </mxCell>
         <mxCell id="-TtysaUI52EJilZCeaw0-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://yubin1219.github.io/edaformer/static/images/architecture2.png;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
-          <mxGeometry x="1084" y="1051" width="1246" height="371.73" as="geometry" />
+          <mxGeometry x="1074" y="1051" width="1246" height="371.73" as="geometry" />
         </mxCell>
         <mxCell id="-TtysaUI52EJilZCeaw0-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://heriakhmadi.com/wp-content/uploads/2022/03/imgpreview.do_.png;flipH=0;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="350" y="57.69" width="276" height="275.14" as="geometry" />
