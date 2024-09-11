@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="페이지-1" id="t9a6NV_zygVOl85xZbFj">
-    <mxGraphModel dx="5903" dy="3017" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="5120" pageHeight="2560" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4132" dy="2112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="5120" pageHeight="2560" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,10 +83,10 @@
           <mxGeometry x="3968" y="18.33" width="357" height="357" as="geometry" />
         </mxCell>
         <mxCell id="tTsnI4z1t2rTBDos4Syw-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/619/619175.png;" parent="1" vertex="1">
-          <mxGeometry x="103" y="1528" width="60" height="60" as="geometry" />
+          <mxGeometry x="100" y="1528" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tTsnI4z1t2rTBDos4Syw-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/619/619175.png;" parent="1" vertex="1">
-          <mxGeometry x="103" y="1703" width="60" height="60" as="geometry" />
+          <mxGeometry x="100" y="1703" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tTsnI4z1t2rTBDos4Syw-19" value="&lt;ul style=&quot;margin-bottom: 0px; margin-top: 0px; margin-left: 0px; padding-left: 100px; padding-top: 10px;&quot;&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Inference Spatial Reduction (ISR) method&lt;/b&gt;&lt;/li&gt;&lt;ul style=&quot;padding-left: 60px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Without additional training, selectively adjust computations of the trained model at inference&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Reduce computations with little performance degradation at inference&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;strokeColor=#36393d;fillColor=#f9f7ed;verticalAlign=top;overflow=hidden;textShadow=0;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=50;align=left;horizontal=1;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="58" y="2340" width="2270" height="205" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="167" y="2421" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="tTsnI4z1t2rTBDos4Syw-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/619/619175.png;" parent="1" vertex="1">
-          <mxGeometry x="103" y="2357" width="60" height="60" as="geometry" />
+          <mxGeometry x="100" y="2357" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tTsnI4z1t2rTBDos4Syw-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;labelBackgroundColor=#ecd565;fillColor=#fdee8b;aspect=fixed;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="167" y="1595" width="45" height="45" as="geometry" />
