@@ -50,7 +50,7 @@
           <mxGeometry x="808.1" y="1051" width="1508.9" height="450.16" as="geometry" />
         </mxCell>
         <mxCell id="-TtysaUI52EJilZCeaw0-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://yubin1219.github.io/edaformer/static/images/table5.png;clipPath=inset(0% 0% 0% 51%);fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
-          <mxGeometry x="4291" y="696.26" width="774.07" height="331.74" as="geometry" />
+          <mxGeometry x="4291" y="766" width="774.07" height="331.74" as="geometry" />
         </mxCell>
         <mxCell id="-TtysaUI52EJilZCeaw0-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://heriakhmadi.com/wp-content/uploads/2022/03/imgpreview.do_.png;flipH=0;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" parent="1" vertex="1">
           <mxGeometry x="350" y="57.69" width="276" height="275.14" as="geometry" />
@@ -73,8 +73,8 @@
         <mxCell id="tTsnI4z1t2rTBDos4Syw-11" value="Overview Method" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontStyle=1;fontColor=#f9d2be;" parent="1" vertex="1">
           <mxGeometry x="104" y="958" width="842" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tTsnI4z1t2rTBDos4Syw-12" value="Experiments" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontStyle=1;fontColor=#f9d2be;" parent="1" vertex="1">
-          <mxGeometry x="2433" y="417" width="468" height="70" as="geometry" />
+        <mxCell id="tTsnI4z1t2rTBDos4Syw-12" value="Experiments &amp;amp; Visualization" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontStyle=1;fontColor=#f9d2be;" parent="1" vertex="1">
+          <mxGeometry x="2433" y="417" width="1043" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tTsnI4z1t2rTBDos4Syw-13" value="&lt;ul style=&quot;margin-bottom: 0px; margin-top: 0px; margin-left: 0px; padding-left: 100px; padding-top: 10px;&quot;&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Embedding-Free Attention (EFA) structure&lt;/b&gt;&lt;/li&gt;&lt;ul style=&quot;margin-bottom: 0px; padding-left: 60px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;EFA is effective for our ISR in terms of the trade-off between computations and performance degradation&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-bottom: 0px; margin-top: 0px; margin-left: 0px; padding-left: 100px;&quot;&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;EDAFormer : &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Embedding-Free Transformer Encoder + All-attention Decoder&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#36393d;fillColor=#f9f7ed;verticalAlign=top;overflow=hidden;textShadow=0;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=50;align=left;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="58" y="1511" width="2270" height="268" as="geometry" />
