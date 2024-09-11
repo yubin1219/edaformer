@@ -170,7 +170,7 @@
           <mxGeometry x="2347" y="4437" width="1970.81" height="661" as="geometry" />
         </mxCell>
         <mxCell id="_-6271LGH3j0hUTPeXue-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://yubin1219.github.io/edaformer/static/images/efa.png;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;clipPath=inset(1.83% 1.67% 0.26% 4.33%);" vertex="1" parent="1">
-          <mxGeometry x="2356" y="3049" width="1042.04" height="691" as="geometry" />
+          <mxGeometry x="2345" y="3049" width="1056.04" height="700.28" as="geometry" />
         </mxCell>
         <mxCell id="_-6271LGH3j0hUTPeXue-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://yubin1219.github.io/edaformer/static/images/eccv_isr.png;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="2344" y="3730" width="1615.27" height="459" as="geometry" />
