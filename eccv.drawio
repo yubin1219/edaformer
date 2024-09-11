@@ -200,7 +200,7 @@
           <mxGeometry x="120.24" y="3491.92" width="842" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_-6271LGH3j0hUTPeXue-35" value="Overview Method" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontStyle=1;fontColor=#f9d2be;" vertex="1" parent="1">
-          <mxGeometry x="2424" y="2964.92" width="1043" height="70" as="geometry" />
+          <mxGeometry x="2416" y="2964.92" width="1043" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_-6271LGH3j0hUTPeXue-36" value="&lt;ul style=&quot;margin-bottom: 0px; margin-top: 0px; margin-left: 0px; padding-left: 90px; padding-top: 10px;&quot;&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Embedding-Free Attention (EFA) Structure&lt;/b&gt;&lt;/li&gt;&lt;ul style=&quot;margin-bottom: 0px; padding-left: 60px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;EFA is effective for our ISR in terms of the trade-off between computations and performance degradation&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul style=&quot;margin-bottom: 0px; margin-top: 0px; margin-left: 0px; padding-left: 100px;&quot;&gt;&lt;li&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;EDAFormer:&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;font-size: 45px;&quot;&gt;Embedding-Free transformer encoder + All-attention decoder&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#36393d;fillColor=#f9f7ed;verticalAlign=top;overflow=hidden;textShadow=0;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=50;align=left;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="3422.84" y="3451" width="1663.16" height="277" as="geometry" />
@@ -254,7 +254,7 @@
           <mxGeometry x="2338" y="4198" width="2749" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_-6271LGH3j0hUTPeXue-54" value="Visualizations" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=60;fontStyle=1;fontColor=#f9d2be;" vertex="1" parent="1">
-          <mxGeometry x="2424" y="4213" width="1043" height="70" as="geometry" />
+          <mxGeometry x="2416" y="4213" width="1043" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_-6271LGH3j0hUTPeXue-55" value="&lt;b style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;Table 4.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;verticalAlign=middle;overflow=hidden;textShadow=0;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontStyle=0;fontSize=37;align=center;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="943.0299999999999" y="4172" width="1288" height="54" as="geometry" />
